@@ -1,0 +1,6 @@
+Sup fellas.
+
+This text file is here to ensure that the output directory stays. It won't affect your code, but don't delete it.
+
+Also, after you run the script, the individual PDFs will be saved here.
+Keep them - there may be times that people will want to get a copy of their application and this is the easiest way to give it to them.
